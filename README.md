@@ -18,6 +18,10 @@
 
 ## [Dokku](https://github.com/dokku/dokku)
 
+# Management
+
+## [Mesos](http://mesos.apache.org/), [Mesosphere](https://mesosphere.com/)
+
 # Database
 
 ## Cassandra
