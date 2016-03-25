@@ -30,12 +30,12 @@
 
 ## Spark
 
+# Scaling
+
+## HAProxy
+
 # Uncategorized
 
 ## Storm
 
 ## Spark
-
-# Scaling
-
-## HAProxy
