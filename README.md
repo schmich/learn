@@ -4,7 +4,15 @@
 
 ## logrotate
 
-## Kubernetes
+# Orchestration
+
+## [Kubernetes](http://kubernetes.io/)
+
+## [Mesos](http://mesos.apache.org/), [Mesosphere](https://mesosphere.com/)
+
+## [Fleet](https://coreos.com/using-coreos/clustering/)
+
+## [Docker Swarm](https://docs.docker.com/swarm/)
 
 # Deployment
 
@@ -17,10 +25,6 @@
 ## [Deis](http://deis.io/)
 
 ## [Dokku](https://github.com/dokku/dokku)
-
-# Management
-
-## [Mesos](http://mesos.apache.org/), [Mesosphere](https://mesosphere.com/)
 
 # Database
 
