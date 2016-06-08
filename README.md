@@ -28,6 +28,8 @@
 
 # Database
 
+## [Couchbase](http://www.couchbase.com/)
+
 ## [CouchDB](http://couchdb.apache.org/)
 
 ## [InfluxDB](https://influxdata.com/)
