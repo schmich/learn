@@ -28,6 +28,8 @@
 
 # Database
 
+## [CouchDB](http://couchdb.apache.org/)
+
 ## [InfluxDB](https://influxdata.com/)
 
 ## [TrailDB](http://traildb.io/)
