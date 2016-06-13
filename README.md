@@ -46,6 +46,10 @@
 
 ## Spark
 
+## [Cayley](https://github.com/google/cayley)
+
+## [Neo4j](http://neo4j.com/)
+
 # Scaling
 
 ## HAProxy
